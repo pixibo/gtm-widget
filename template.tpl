@@ -10,6 +10,7 @@ ___INFO___
 
 {
   "displayName": "Pixibo Find Your Fit",
+  "categories": ["PERSONALIZATION", "UTILITY"],
   "description": "Pixibo Find Your Fit widget",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
