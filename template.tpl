@@ -10,7 +10,7 @@ ___INFO___
 
 {
   "displayName": "Pixibo Find Your Fit",
-  "description": "Pixibo Find Your Fit widget",
+  "description": "Pixibo Find Your Fit is an intelligent size and fit advisor that offers accurate size recommendations for fashion apparel, footwear, and lingerie products and converts visitors into shoppers.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
@@ -354,6 +354,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 27/01/2020, 12:33:12
+Created on 29/01/2020, 12:01:55
 
 
