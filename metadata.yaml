@@ -16,5 +16,8 @@ homepage: "https://www.wearepixibo.com"
 documentation: "https://github.com/pixibo/google-tag-manager"
 versions:
   # Latest Version
+  - sha: 25a00b710cbf78ab0ff752d4b1bdb923aaae42ec
+    changeNotes: Update template description
+  # Older Versions
   - sha: 87669a060a786b54f0b1e9005c2dda8960547e2d
     changeNotes: Initial Version
