@@ -10,7 +10,7 @@ ___INFO___
 
 {
   "displayName": "Pixibo Find Your Fit",
-  "description": "Pixibo Find Your Fit is an intelligent size and fit advisor that offers accurate size recommendations for fashion apparel, footwear, and lingerie products and converts visitors into shoppers.",
+  "description": "Pixibo Find Your Fit is an intelligent size and fit advisor that offers accurate size recommendations for fashion apparel, footwear, and lingerie categories and converts visitors into shoppers.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
@@ -155,7 +155,7 @@ ___TEMPLATE_PARAMETERS___
               "displayValue": "Margin 3px"
             },
             {
-              "value": "pxb-margin-3",
+              "value": "pxb-margin-5",
               "displayValue": "Margin 5px"
             },
             {
@@ -173,6 +173,22 @@ ___TEMPLATE_PARAMETERS___
             {
               "value": "pxb-margin-bottom-3",
               "displayValue": "Margin Bottom 3px"
+            },
+            {
+              "value": "pxb-margin-left-5",
+              "displayValue": "Margin Left 5px"
+            },
+            {
+              "value": "pxb-margin-right-5",
+              "displayValue": "Margin Right 5px"
+            },
+            {
+              "value": "pxb-margin-top-5",
+              "displayValue": "Margin Top 5px"
+            },
+            {
+              "value": "pxb-margin-bottom-5",
+              "displayValue": "Margin Bottom 5px"
             }
           ],
           "simpleValueType": true
@@ -354,6 +370,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 29/01/2020, 12:01:55
+Created on 06/02/2020, 17:27:29
 
 
