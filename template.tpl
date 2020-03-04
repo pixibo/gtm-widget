@@ -189,6 +189,38 @@ ___TEMPLATE_PARAMETERS___
             {
               "value": "pxb-margin-bottom-5",
               "displayValue": "Margin Bottom 5px"
+            },
+            {
+              "value": "pxb-margin-left-10",
+              "displayValue": "Margin Left 10px"
+            },
+            {
+              "value": "pxb-margin-right-10",
+              "displayValue": "Margin Right 10px"
+            },
+            {
+              "value": "pxb-margin-top-10",
+              "displayValue": "Margin Top 10px"
+            },
+            {
+              "value": "pxb-margin-bottom-10",
+              "displayValue": "Margin Bottom 10px"
+            },
+            {
+              "value": "pxb-margin-left-20",
+              "displayValue": "Margin Left 20px"
+            },
+            {
+              "value": "pxb-margin-right-20",
+              "displayValue": "Margin Right 20px"
+            },
+            {
+              "value": "pxb-margin-top-20",
+              "displayValue": "Margin Top 20px"
+            },
+            {
+              "value": "pxb-margin-bottom-20",
+              "displayValue": "Margin Bottom 20px"
             }
           ],
           "simpleValueType": true
@@ -370,6 +402,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 06/02/2020, 17:27:29
+Created on 04/03/2020, 21:45:45
 
 
