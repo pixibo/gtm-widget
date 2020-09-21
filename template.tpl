@@ -1,4 +1,4 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -249,13 +249,13 @@ if (query('access_globals', 'readwrite', 'PixiboGTM')) {
   setInWindow('PixiboGTM', data);
 }
 var clientId = data.clientId;
-var clientName = data.clientName;
+// var clientName = data.clientName;
 var skuId = data.skuId;
 var env = data.env;
 var language = data.language;
 
-const url = 'https://cdn.pixibo.com/clients/'+clientName+'/'+env+'/lazy.js?gtm=true&clientid='+clientId+'&skuid='+skuId+'&language='+language+'';
-log(url);
+const url = 'https://cdn.pixibo.com/fyf/'+ env + '/lazy.js?gtm=true&clientid='+clientId+'&skuid='+skuId+'&language='+language+'';
+log('the url: ',url);
 
 injectScript(url, data.gtmOnSuccess, data.gtmOnFailure, url);
 
@@ -402,6 +402,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 04/03/2020, 21:45:45
+Created on 21/09/2020, 18:40:42
 
 
