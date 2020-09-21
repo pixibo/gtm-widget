@@ -16,9 +16,11 @@ homepage: "https://www.wearepixibo.com"
 documentation: "https://github.com/pixibo/google-tag-manager"
 versions:
   # Latest Version
+  - sha: 140a9970d0f582e281e7f42739dcea98ff56a5d4
+    changeNotes: Add universal link
+  # Older Versions
   - sha: 1bd2364eda0629952683e986c9aa4393c1e424e0
     changeNotes: Add more style classes
-  # Older Versions
   - sha: 548572405dff424771fce9ca82d3315a2db8585b
     changeNotes: Add more style classes
   - sha: 25a00b710cbf78ab0ff752d4b1bdb923aaae42ec
