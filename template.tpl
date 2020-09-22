@@ -298,7 +298,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://cdn.pixibo.com/clients/*"
+                "string": "https://cdn.pixibo.com/fyf/*"
               }
             ]
           }
@@ -402,6 +402,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 21/09/2020, 18:40:42
+Created on 22/09/2020, 17:36:22
 
 
