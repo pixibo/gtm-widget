@@ -12,20 +12,22 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://www.wearepixibo.com"
-documentation: "https://github.com/pixibo/google-tag-manager"
+homepage: 'https://www.wearepixibo.com'
+documentation: 'https://github.com/pixibo/google-tag-manager'
 versions:
-  # Latest Version
-  - sha: 334f1a1525b412dbcd94dbef88a5f7271c19cfb8
-    changeNotes: Update wildcard to accept universal script
-  # Older Versions
-  - sha: 140a9970d0f582e281e7f42739dcea98ff56a5d4
-    changeNotes: Add universal link
-  - sha: 1bd2364eda0629952683e986c9aa4393c1e424e0
-    changeNotes: Add more style classes
-  - sha: 548572405dff424771fce9ca82d3315a2db8585b
-    changeNotes: Add more style classes
-  - sha: 25a00b710cbf78ab0ff752d4b1bdb923aaae42ec
-    changeNotes: Update template description
-  - sha: 87669a060a786b54f0b1e9005c2dda8960547e2d
-    changeNotes: Initial Version
+    # Latest Version
+    - sha: 05a8410673260e64febeeff26333e755c77820ef
+      changeNotes: Added variants and color selection for the entrypoint
+    # Older Versions
+    - sha: 334f1a1525b412dbcd94dbef88a5f7271c19cfb8
+      changeNotes: Update wildcard to accept universal script
+    - sha: 140a9970d0f582e281e7f42739dcea98ff56a5d4
+      changeNotes: Add universal link
+    - sha: 1bd2364eda0629952683e986c9aa4393c1e424e0
+      changeNotes: Add more style classes
+    - sha: 548572405dff424771fce9ca82d3315a2db8585b
+      changeNotes: Add more style classes
+    - sha: 25a00b710cbf78ab0ff752d4b1bdb923aaae42ec
+      changeNotes: Update template description
+    - sha: 87669a060a786b54f0b1e9005c2dda8960547e2d
+      changeNotes: Initial Version
