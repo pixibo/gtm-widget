@@ -226,6 +226,30 @@ ___TEMPLATE_PARAMETERS___
           "simpleValueType": true
         },
         "isUnique": false
+      },
+      {
+        "param": {
+          "type": "SELECT",
+          "name": "variants",
+          "displayName": "Entrypoint variants",
+          "macrosInSelect": false,
+          "selectItems": [
+            {
+              "value": "box",
+              "displayValue": "Box"
+            },
+            {
+              "value": "underline",
+              "displayValue": "Underline"
+            },
+            {
+              "value": "overlay",
+              "displayValue": "Overlay"
+            }
+          ],
+          "simpleValueType": true
+        },
+        "isUnique": false
       }
     ],
     "displayName": "",
@@ -234,6 +258,12 @@ ___TEMPLATE_PARAMETERS___
         "type": "NON_EMPTY"
       }
     ]
+  },
+  {
+    "type": "TEXT",
+    "name": "color",
+    "displayName": "Entrypoint color (e.g. #FFFF)",
+    "simpleValueType": true
   }
 ]
 
