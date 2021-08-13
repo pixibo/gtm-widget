@@ -64,6 +64,14 @@ ___TEMPLATE_PARAMETERS___
     ]
   },
   {
+    "notSetText": "Alt id is an Optional field.",
+    "displayName": "Alt ID",
+    "simpleValueType": true,
+    "name": "altId",
+    "type": "TEXT",
+    "valueValidators": []
+  },
+  {
     "displayName": "Environment",
     "simpleValueType": true,
     "name": "env",
@@ -283,8 +291,9 @@ var clientId = data.clientId;
 var skuId = data.skuId;
 var env = data.env;
 var language = data.language;
+var altId = data.altId;
 
-const url = 'https://cdn.pixibo.com/fyf/'+ env + '/lazy.js?gtm=true&clientid='+clientId+'&skuid='+skuId+'&language='+language+'';
+const url = 'https://cdn.pixibo.com/fyf/'+ env + '/lazy.js?gtm=true&clientid='+clientId+'&skuid='+skuId+'&language='+language+'&altId='+altId+'';
 log('the url: ',url);
 
 injectScript(url, data.gtmOnSuccess, data.gtmOnFailure, url);
